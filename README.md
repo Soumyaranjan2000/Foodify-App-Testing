@@ -1,4 +1,4 @@
-# Foodify App Testing — QA Project Template
+# Foodify App Testing
 
 **Project:** Foodify App Testing  
 **Tester:** Soumya Ranjan Rout  
